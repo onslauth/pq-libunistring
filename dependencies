@@ -1,2 +1,2 @@
-pq-gcc
-pq-libiconv
+part: 'pq-gcc'
+part: 'pq-libiconv'
